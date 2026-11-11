@@ -91,3 +91,5 @@ Export card draw records, holy relics, and achievement information
 [genshin-impact-wish-simulator](https://github.com/uzair-ashraf/genshin-impact-wish-simulator) Card draw simulator
 
 [yuan-shen-map](https://github.com/kongying-tavern/yuan-shen-map) Map
+
+[Teyvat Starter Guide](https://genshin-guide-one-five.vercel.app) Bilingual (EN/ZH) guide site: game mechanics, pity system, boss weaknesses and character builds
